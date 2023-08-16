@@ -19,6 +19,7 @@
 <img alt="CSS" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="Bootstrap" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img alt="JavaScript" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img alt="MYSQL" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img alt="React" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="NodeJS" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="Python" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
