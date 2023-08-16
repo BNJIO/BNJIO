@@ -28,4 +28,10 @@
 <img alt="MongoDb" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img alt="PHP" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img alt="Linux" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img alt="GitLab" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></div>
+<img alt="GitLab" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+</div>
+<br />
+
+### 👨‍💻I'M LEARNING RIGHT NOW
+<img  alt="C" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="LARAVEL" align="left" width="30px" style="padding:10px !important;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
